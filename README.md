@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HlIOLvG3N2tmvgX0Msk81ilq7aBBO8lQ/view?usp=sharing](https://drive.google.com/file/d/1HlIOLvG3N2tmvgX0Msk81ilq7aBBO8lQ/view?usp=sharing)
 
-- ⚡ Fun fact **Coding Skills Are On God-Mode**
+- ⚡ Fun fact **My Coding Skills Are On God-Mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
