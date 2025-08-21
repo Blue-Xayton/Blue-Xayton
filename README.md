@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikageng</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blue-xayton" alt="blue-xayton" /></a> </p>
-
 - 🔭 I’m currently working on [My Project Portfolio](https://blue-xayton.github.io/Project-Porty-/)
 
 - 🌱 I’m currently learning **JavaScript,HTML and CSS**
