@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blue-xayton&show_icons=true&locale=en" alt="blue-xayton" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blue-xayton&" alt="blue-xayton" /></p>
+<p><img align="center" src="https://github.com/Blue-Xayton" /></p>
 
 
 
