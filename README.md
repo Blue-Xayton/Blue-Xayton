@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Project Portfolio](https://blue-xayton.github.io/Project-Porty-/)
 
-- 🌱 I’m currently learning **JavaScript,HTML and CSS**
+- 🌱 I’m currently learning **Java, JavaScript,HTML and CSS**
 
 - 👯 I’m looking to collaborate on **cool projects to learn and bring new ideas into fruition**
 
