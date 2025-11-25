@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently working on [My Project Portfolio](https://blue-xayton.github.io/Project-Porty-/)
 
-- 🌱 I’m currently learning **Java, JavaScript,HTML and CSS**
+- 🌱 I’m currently learning **Java, JavaScript, C#, HTML and CSS**
 
 - 👯 I’m looking to collaborate on **cool projects to learn and bring new ideas into fruition**
 
-- 🤝 I’m looking for help with **upskilling and creating new projects**
+- 🤝 I’m looking for help with **upskilling and creating new idustry driven projects**
 
 - 👨‍💻 All of my projects are available at [https://blue-xayton.github.io/Project-Porty-/](https://blue-xayton.github.io/Project-Porty-/)
 
-- 📝 I regularly write articles on [http://www.linkedin.com/in/ikageng-molete-bb1523335](http://www.linkedin.com/in/ikageng-molete-bb1523335)
+- 📝 I regularly write articles on LinkedIn, Check it out here [http://www.linkedin.com/in/ikageng-molete-bb1523335](http://www.linkedin.com/in/ikageng-molete-bb1523335)
 
-- 💬 Ask me about **flutter, HTML and CSS**
+- 💬 Ask me about **Front-end Development, Flutter/Dart Projects, Web application through JavaScript,HTML & CSS **
 
 - 📫 How to reach me **ikagengmpolokeng@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HlIOLvG3N2tmvgX0Msk81ilq7aBBO8lQ/view?usp=sharing](https://drive.google.com/file/d/1HlIOLvG3N2tmvgX0Msk81ilq7aBBO8lQ/view?usp=sharing)
+- 📄 Know about my education, experiences and certifications https://drive.google.com/file/d/1CKcD3JapI8tZ7uC48bky9OM9gatTPcIY/view?usp=drive_link
 
 - ⚡ Fun fact **My Coding Skills Are On God-Mode**
 
