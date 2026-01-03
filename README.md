@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ikageng</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate Software Developer from South Africa</h3>
 
 - 🔭 I’m currently working on [My Project Portfolio](https://blue-xayton.github.io/Project-Porty-/)
 
-- 🌱 I’m currently learning **Java, JavaScript, C#, HTML and CSS**
+- 🌱 I’m currently learning **Data Engineering, AI Engineering, Java, JavaScript, C#, HTML and CSS**
 
 - 👯 I’m looking to collaborate on **cool projects to learn and bring new ideas into fruition**
 
